@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">A Web Developer & CKA/CKAD for <a href="https://intre.it" target="blank">Intré</a></h3>
 
-- 🔭 I’m currently working on [Emojiperanto](https://emojiperanto.win/)
-
-- 🌱 I’m currently learning about **some DevOps tools**
-
 - 👨‍💻 All of my projects are available at [https://github.com/LorenzoScebba?tab=repositories](https://github.com/LorenzoScebba?tab=repositories)
 
 - 📝 I (not so) regularly write articles on [https://www.seproprio.dev/author/lorenzoscebba/](https://www.seproprio.dev/author/lorenzoscebba/)
