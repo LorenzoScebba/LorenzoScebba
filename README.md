@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
-<h3 align="center">A Web Developer & CKA/CKAD</h3>
+<h3 align="center">A CKA/CKAD Software Engineer for <a href="https://konghq.com/" target="blank">Kong</a></h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/LorenzoScebba?tab=repositories](https://github.com/LorenzoScebba?tab=repositories)
 
