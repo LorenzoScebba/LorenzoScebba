@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LorenzoScebba?tab=repositories](https://github.com/LorenzoScebba?tab=repositories)
 
-- 📝 I (not so) regularly write articles on [https://www.seproprio.dev/author/lorenzoscebba/](https://www.seproprio.dev/author/lorenzoscebba/)
+- 📝 I (not so) regularly write articles on [https://lorenzoscebba.com/](https://lorenzoscebba.com/)
 
 - 💬 Ask me about **react, kuberentes, nodejs, c#**
 
